@@ -21,19 +21,14 @@ This project consists of two main components: the client and the server.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/tadata-org/MCP-Game](https://github.com/tadata-org/MCP-Game)
-    cd mcp-game
+    git clone https://github.com/tadata-org/MCP-Game.git
+    cd MCP-Game
     ```
 
 2.  **Install dependencies:**
     ```bash
-    # Install client dependencies
-    cd client
-    pip install -e .
-
-    # Install server dependencies
-    cd ../server
-    pip install -e .
+    # Install all dependencies
+    pip install -r requirements.txt
     ```
 
 3.  **Set up your environment variables:**
@@ -56,7 +51,9 @@ This project consists of two main components: the client and the server.
     python game_client.py
     ```
 
-3.  Follow the on-screen instructions to play the game and escape!
+3.  Follow the instructions to play the game and escape! For the best experience, don't forget to view the images (as they change!) by opening up client/current_room_png.
+   
+5.  If you finish a game and wish to restart, make sure to restart the server as well (to renew the state of the game)
 
 ## 🎯 Game Features
 
