@@ -4,6 +4,8 @@ Welcome! The **Model Context Protocol (MCP)** is rapidly transforming how compan
 
 This project, however, applies MCPs in a unique way: **The MCP Game**. It's an interactive text-based adventure where you are trapped in an escape room. Players must navigate the room, solve puzzles, and collect items by interacting with an AI to find their way to freedom. This game, beyond being enjoyable to build and play, offers significant insights into the world of MCPs and their increasingly vital role.
 
+![Demo Image](demo.png)
+
 ## 🏗️ Architecture
 
 As mentioned, this game leverages the power of the MCP. Here's a breakdown of its architecture:
