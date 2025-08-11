@@ -1,10 +1,15 @@
 # MCP Game: Behind Bars
 
-Welcome! The **Model Context Protocol (MCP)** is rapidly transforming how companies operate, from empowering internal teams with swift data access to enabling users to interact with software through intuitive, natural-language interfaces.
+Welcome! At [Tadata](https://tadata.com/), we typically builds tech to help companies launch Model Context Protocol (MCP) servers.
 
-This project, however, applies MCPs in a unique way: **The MCP Game**. It's an interactive text-based adventure where you are trapped in an escape room. Players must navigate the room, solve puzzles, and collect items by interacting with an AI to find their way to freedom. This game, beyond being enjoyable to build and play, offers significant insights into the world of MCPs and their increasingly vital role.
+In our spare time, however, we've played around with using the MCP in a more unique way to power this escape room game. It's an interactive text-based adventure where you are trapped in an escape room. Players must navigate the room, solve puzzles, and collect items by interacting with an AI to find their way to freedom. This game, beyond being enjoyable to build and play, offers significant insights into the world of MCPs and their increasingly vital role. You can read about these learnings in our [blog post](https://tadata.com/blog/the-ai-escape-room-mcp-as-a-game-engine). 
+
 
 ![Demo Image](demo.png)
+
+## Hosted Version:  
+
+Start playing right now, online, with our [hosted version](https://tadata.com/escape) of the game. 
 
 ## 🏗️ Architecture
 
